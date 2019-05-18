@@ -1,0 +1,5 @@
+2019-05-18 14:12:55 DEBUG TestLogger:19 - Debug
+2019-05-18 14:12:55 INFO  TestLogger:20 - Info
+2019-05-18 14:12:55 WARN  TestLogger:21 - Warning
+2019-05-18 14:12:55 ERROR TestLogger:22 - Error
+2019-05-18 14:12:55 FATAL TestLogger:23 - Fatal
